@@ -1,0 +1,132 @@
+﻿@inbook{RN12,
+   author = {Angeles, Maila R. and Rañada, Jonrey V. and Lopez, Dennis C. and Apilado, Jose Ross Antonio R. and Carlos, Ma Sharmaine L. and David, Francis John P. and Escario, Hanna Joy R. and Rolloda, Andrea Isabel P. and Villanueva, Irish Claire L.},
+   title = {Development of Variable Acoustic Soundwave for Fire Prevention},
+   publisher = {Springer Singapore},
+   pages = {331-339},
+   ISBN = {1876-1100},
+   DOI = {10.1007/978-981-15-0058-9_32},
+   url = {https://dx.doi.org/10.1007/978-981-15-0058-9_32},
+   year = {2020},
+   type = {Book Section}
+}
+
+@article{RN16,
+   author = {Archibald, S. and Lehmann, C. E. R. and Belcher, C. M. and Bond, W. J. and Bradstock, R. A. and Daniau, A. L. and Dexter, K. G. and Forrestel, E. J. and Greve, M. and He, T. and Higgins, S. I. and Hoffmann, W. A. and Lamont, B. B. and McGlinn, D. J. and Moncrieff, G. R. and Osborne, C. P. and Pausas, J. G. and Price, O. and Ripley, B. S. and Rogers, B. M. and Schwilk, D. W. and Simon, M. F. and Turetsky, M. R. and Van Der Werf, G. R. and Zanne, A. E.},
+   title = {Biological and geophysical feedbacks with fire in the Earth system},
+   journal = {Environmental Research Letters},
+   volume = {13},
+   number = {3},
+   pages = {033003},
+   ISSN = {1748-9326},
+   DOI = {10.1088/1748-9326/aa9ead},
+   url = {https://dx.doi.org/10.1088/1748-9326/aa9ead},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@inproceedings{RN11,
+   author = {De Luna, Robert G. and P. Baylon, Zenesca Ann and D. Garcia, Coreen Anne and G. Huevos, Jose Rogelio and S. Ilagan, John Lester and T. Rocha, Maria Jamaica},
+   title = {A Comparative Analysis of Machine Learning Approaches for Sound Wave Flame Extinction System Towards Environmental Friendly Fire Suppression},
+   publisher = {IEEE},
+   DOI = {10.1109/tencon58879.2023.10322502},
+   url = {https://dx.doi.org/10.1109/TENCON58879.2023.10322502},
+   type = {Conference Proceedings}
+}
+
+@article{RN19,
+   author = {Di Virgilio, Giovanni and Evans, Jason P. and Blake, Stephanie A. P. and Armstrong, Matthew and Dowdy, Andrew J. and Sharples, Jason and McRae, Rick},
+   title = {Climate Change Increases the Potential for Extreme Wildfires},
+   journal = {Geophysical Research Letters},
+   volume = {46},
+   number = {14},
+   pages = {8517-8526},
+   ISSN = {0094-8276},
+   DOI = {10.1029/2019gl083699},
+   url = {https://dx.doi.org/10.1029/2019GL083699},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN10,
+   author = {Jakubowski, Jacek Wilk and Stawczyk, Paweł and Ivanov, Stefan and Stankov, Stanko},
+   title = {High-power acoustic fire extinguisher with artificial intelligence platform},
+   journal = {International Journal of Computational Vision and Robotics},
+   volume = {12},
+   number = {3},
+   pages = {236},
+   ISSN = {1752-9131},
+   DOI = {10.1504/ijcvr.2022.122580},
+   url = {https://dx.doi.org/10.1504/IJCVR.2022.122580},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN24,
+   author = {Koklu, Murat and Taspinar, Yavuz Selim},
+   title = {Determining the Extinguishing Status of Fuel Flames With Sound Wave by Machine Learning Methods | IEEE Journals & Magazine | IEEE Xplore},
+   journal = {IEEE Access},
+   volume = {9},
+   abstract = {Fire is a natural disaster that can be caused by many different reasons. Recently, more environmentally friendly and innovative extinguishing methods have start},
+   ISSN = {2169-3536},
+   DOI = {10.1109/ACCESS.2021.3088612},
+   url = {https://ieeexplore.ieee.org/document/9452168},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN13,
+   author = {Natividad, LIZEL ROSE Q},
+   title = {Initial response intelligent fire extinguisher robot: A prototype},
+   journal = {Journal of Engineering Science and Technology},
+   volume = {17},
+   pages = {138-146},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN21,
+   author = {Ollero, Anibal and Merino, L},
+   title = {Unmanned aerial vehicles as tools for forest-fire fighting},
+   journal = {Forest Ecology and Management},
+   volume = {234},
+   number = {1},
+   pages = {S263},
+   ISSN = {0378-1127},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@article{RN20,
+   author = {Pettinari, M. Lucrecia and Chuvieco, Emilio},
+   title = {Fire Danger Observed from Space},
+   journal = {Surveys in Geophysics},
+   volume = {41},
+   number = {6},
+   pages = {1437-1459},
+   ISSN = {0169-3298},
+   DOI = {10.1007/s10712-020-09610-8},
+   url = {https://dx.doi.org/10.1007/s10712-020-09610-8},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN22,
+   author = {Selvaraj, Jegan and Karthikeyan, Ganesh and Elangovan, Harish Kanna and Dhanasekaran, Navina},
+   title = {Acoustic Fire Extinguisher},
+   journal = {SSRN Electronic Journal},
+   ISSN = {1556-5068},
+   DOI = {10.2139/ssrn.4157577},
+   url = {https://dx.doi.org/10.2139/ssrn.4157577},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN15,
+   author = {Shlisky, Ayn and Waugh, John and Gonzalez, Patrick and Gonzalez, Mauro and Manta, Maria and Santoso, Heru and Alvarado, Ernesto and Nuruddin, A Ainuddin and Rodríguez-Trejo, DA and Swaty, R},
+   title = {Fire, ecosystems and people: threats and strategies for global biodiversity conservation},
+   journal = {Arlington: The Nature Conservancy},
+   pages = {1-17},
+   year = {2007},
+   type = {Journal Article}
+}
+
